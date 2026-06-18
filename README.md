@@ -1,16 +1,34 @@
-## Hi there 👋
+# Selamlar, ben Faruk Ekinci! 👋 (GitHub: RTSKara)
 
-<!--
-**RTSKara/RTSKara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![MasterHead](http:ile istediğiniz fotoğrafın linkini buraya buraya) Discord Sunucumuz :  / discord   
 
-Here are some ideas to get you started:
+### 🚀 Hakkımda
+Ben **Faruk Ekinci**. Yazılım geliştirme dünyasında kendimi her geçen gün yenileyen, projeler üretmekten ve problem çözmekten keyif alan bir geliştiriciyim. GitHub'da **RTSKara** kullanıcı adıyla yer alıyor, açık kaynaklı projelere katkı sağlamayı ve kendi fikirlerimi koda dökmeyi seviyorum.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 Şu anda üzerinde çalıştığım proje: **[Ekup]**
+- 🌱 Kendimi geliştirdiğim / Öğrendiğim konular: **[Örn: Next.js & Server-Side Rendering (SSR), Go, Yapay Zeka ve Büyük Dil Modelleri (LLMs), Python, Veri Analizi ve Makine Öğrenmesi (Machine Learning), Derin Öğrenme (Deep Learning) & TensorFlow / PyTorch, Docker, Flutter, React Native]**
+- 💬 Bana şu konularda danışabilirsiniz: **[Python, React, C*, Web Tasarımı, Mimari ]**
+- ⚡ Eğlenceli bilgi: **[Kendini yazılım konusunda her alanda geliştirmeye çalışan biriyim =)]**
+
+---
+
+### 🛠️ Teknolojiler & Araçlar
+
+| Alan | Kullandığım Teknolojiler |
+| :--- | :--- |
+| **Diller** | `Python`, `JavaScript`, `TypeScript`, `C++`, `C`|
+| **Frontend** | `React`, `Vue.js`, `HTML5`, `CSS3` |
+| **Backend** | `Node.js`, `Django`, `Express` |
+| **Araçlar & DB** | `Git`, `Docker`, `PostgreSQL`, `MongoDB` |
+
+---
+
+### 📊 GitHub İstatistiklerim
+
+<p align="left">
+  <!-- Sorunsuz çalışan alternatif şık istatistik kartı -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RTSKara&theme=tokyonight" height="180px" alt="RTSKara İstatistikleri" />
+  
+  <!-- En çok kullandığın dilleri gösteren kart -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=RTSKara&theme=tokyonight" height="180px" alt="RTSKara Diller" />
+</p>

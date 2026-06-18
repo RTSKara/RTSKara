@@ -1,7 +1,5 @@
 # Selamlar, ben Faruk Ekinci! 👋 (GitHub: RTSKara)
 
-[![MasterHead](http:ile istediğiniz fotoğrafın linkini buraya buraya) Discord Sunucumuz :  / discord   
-
 ### 🚀 Hakkımda
 Ben **Faruk Ekinci**. Yazılım geliştirme dünyasında kendimi her geçen gün yenileyen, projeler üretmekten ve problem çözmekten keyif alan bir geliştiriciyim. GitHub'da **RTSKara** kullanıcı adıyla yer alıyor, açık kaynaklı projelere katkı sağlamayı ve kendi fikirlerimi koda dökmeyi seviyorum.
 
